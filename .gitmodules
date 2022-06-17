@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "checkdown"]
+	path = checkdown
+	url = https://github.com/agricolamz/checkdown
+	shallow = true
+	registered = true
+[submodule "lingglosses"]
+	path = lingglosses
+	url = https://github.com/agricolamz/lingglosses
+	shallow = true
+	registered = true
