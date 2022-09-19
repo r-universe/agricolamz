@@ -2,5 +2,9 @@
   {
     "package": "checkdown",
     "oncran": true
+  },
+  {
+    "package": "lingglosses",
+    "oncran": true
   }
 ]
